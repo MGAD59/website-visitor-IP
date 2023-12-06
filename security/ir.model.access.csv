@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_website_visitor__ip_website_visitor__ip,website_visitor__ip.website_visitor__ip,model_website_visitor__ip_website_visitor__ip,base.group_user,1,1,1,1
