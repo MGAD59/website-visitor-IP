@@ -25,4 +25,5 @@
         'views/views.xml',
         'views/templates.xml',
     ],
+    'css': ['static/src/css/styles.css'],
 }
