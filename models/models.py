@@ -13,4 +13,4 @@ class WebsiteVisitorIP(models.Model):
         for rec in self:
             client_ip = request.httprequest.environ.get('REMOTE_ADDR', False)
             rec.IP_address = client_ip
-            print('hi')
+            
